@@ -54,17 +54,26 @@ ROS2 노드 간 토픽 통신을 활용하여 차량 제어와 센서 데이터�
 ---
 
 ## 📷 Screenshots
-<img width="448" height="272" alt="image" src="https://github.com/user-attachments/assets/54a90966-7aec-4d12-b952-43e983094d4f" />
 
 ### 🚘 Gazebo Simulation
+<img width="448" height="272" alt="image" src="https://github.com/user-attachments/assets/54a90966-7aec-4d12-b952-43e983094d4f" />
+
+
+### 🚧 Dynamic Obstacle
 <img width="1585" height="434" alt="image" src="https://github.com/user-attachments/assets/534fb155-01df-4244-b60d-b242352615c8" />
 
 
-### 🛣 Lane Following
-(이미지 추가)
+### 🛣 Lane Detection
+<img width="1076" height="301" alt="image" src="https://github.com/user-attachments/assets/d48ebabe-3421-4d48-9106-7083d9e979bf" />
 
-### 🚧 Obstacle Detection
-(이미지 추가)
+
+### 🚦 Stop Line Handling
+<img width="462" height="248" alt="image" src="https://github.com/user-attachments/assets/16ff9dd9-f564-4f49-8994-7ef4cba43ce9" />
+
+
+### ⛰ Hill Environment
+<img width="532" height="252" alt="image" src="https://github.com/user-attachments/assets/adf8a90f-2e50-4768-b3e1-cc552da89ad3" />
+
 
 ---
 
@@ -73,6 +82,13 @@ ROS2 노드 간 토픽 통신을 활용하여 차량 제어와 센서 데이터�
 https://youtu.be/TpHQC-PzqVg
 
 ---
+
+## 🧩 System Architecture
+<img width="268" height="140" alt="image" src="https://github.com/user-attachments/assets/0a7504e2-e0e3-4ff5-b86b-59a482940420" />
+
+
+---
+
 
 ## 📅 개발 기간
 
