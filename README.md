@@ -84,7 +84,7 @@ https://youtu.be/TpHQC-PzqVg
 ---
 
 ## 🧩 System Architecture
-<img width="268" height="140" alt="image" src="https://github.com/user-attachments/assets/0a7504e2-e0e3-4ff5-b86b-59a482940420" />
+<img width="626" height="224" alt="image" src="https://github.com/user-attachments/assets/440afc9e-d3e5-49b7-bc6f-e897874298fa" />
 
 
 ---
