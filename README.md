@@ -79,7 +79,7 @@ ROS2 노드 간 토픽 통신을 활용하여 차량 제어와 센서 데이터�
 
 ## 🎥 Demo Video
 
-https://youtu.be/TpHQC-PzqVg
+[https://youtu.be/TpHQC-PzqVg](https://youtu.be/YVjUw-HWaVI)
 
 ---
 
